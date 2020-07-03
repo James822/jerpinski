@@ -21,4 +21,6 @@ An example of what you might want:
 
 `cargo run --release 1920 1080 7`
 
-renders a 1920x1080 image with 7 iterations on the triangle.
+renders a 1920x1080 image with 7 iterations on the triangle. \
+
+All images are rendered to the "jerpinski/jerpinski/output/render.png" file.
