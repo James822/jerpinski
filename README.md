@@ -13,7 +13,7 @@ A program that renders iterations of sierpinski's triangle: https://en.wikipedia
 ## TUTORIAL:
 
 To use this program simply git clone the repository,
-cd into the directory and use this command:
+cd into the src/ directory and use this command:
 
 `cargo run --release <resolution_width> <resolution_height> <iterations> `
 
